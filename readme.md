@@ -66,7 +66,7 @@ $modal.show({
 
 ### NuxtJS v3
 ```bash
-yarn add --dev @tailvue/nuxt
+npx nuxi@latest module add tailvue
 ```
 
 * Add this to your `nuxt.config.ts`
@@ -82,7 +82,7 @@ modules: [
 
 ### Vue3
 ```bash
-yarn add tailvue
+npx nuxi@latest module add tailvue
 ```
 
 ```ts
