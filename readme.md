@@ -82,7 +82,7 @@ modules: [
 
 ### Vue3
 ```bash
-npx nuxi@latest module add tailvue
+yarn add tailvue
 ```
 
 ```ts
